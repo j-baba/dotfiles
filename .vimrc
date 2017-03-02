@@ -1,0 +1,11 @@
+set number
+set title
+set ambiwidth=double
+set tabstop=4
+set expandtab
+set shiftwidth=4
+set smartindent
+set nrformats-=octal
+set virtualedit=block
+set whichwrap=b,s,[,],<,>
+set backspace=indent,eol,start
